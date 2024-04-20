@@ -1,6 +1,8 @@
 body {
     color: deeppink;
     font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    line-height: 23px;
     text-align: center;
     text-transform: uppercase;
 }
