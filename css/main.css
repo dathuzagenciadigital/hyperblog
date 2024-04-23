@@ -9,12 +9,13 @@ body {
 }
 
 #cabecera {
-    border-bottom: 3px solid black;
+    background-color: black;
+    color: white;
     font-size: 50px;
     font-weight: 700;
     line-height: 60px;
     margin-top: 50px;
-    padding-bottom: 10px;
+    padding: 20px 10px;
     text-align: center;
     text-transform: uppercase;
 }
