@@ -8,6 +8,17 @@ body {
     width: 90%;
 }
 
+#cabecera {
+    border-bottom: 3px solid black;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 60px;
+    margin-top: 50px;
+    padding-bottom: 10px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
 #post {
     border: 1px solid deeppink;
     margin-top: 30px;
@@ -18,9 +29,9 @@ body {
 
 #post h1 {
     color: deeppink;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 700;
-    line-height: 50px;
+    line-height: 40px;
 }
 
 #post p {
