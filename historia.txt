@@ -12,3 +12,5 @@ En el mes de julio jugará la liga nacional de basketball
 
 Su estatura es de 194 cm
 Y pesa 88 kg.
+
+Webmaster contribuye a este proyecto open source.
